@@ -1,0 +1,7 @@
+C:\Users\usr\source\repos\MaxDepthOfBinaryTree\MaxDepthOfBinaryTree\bin\Debug\MaxDepthOfBinaryTree.exe.config
+C:\Users\usr\source\repos\MaxDepthOfBinaryTree\MaxDepthOfBinaryTree\bin\Debug\MaxDepthOfBinaryTree.exe
+C:\Users\usr\source\repos\MaxDepthOfBinaryTree\MaxDepthOfBinaryTree\bin\Debug\MaxDepthOfBinaryTree.pdb
+C:\Users\usr\source\repos\MaxDepthOfBinaryTree\MaxDepthOfBinaryTree\obj\Debug\MaxDepthOfBinaryTree.csprojAssemblyReference.cache
+C:\Users\usr\source\repos\MaxDepthOfBinaryTree\MaxDepthOfBinaryTree\obj\Debug\MaxDepthOfBinaryTree.csproj.CoreCompileInputs.cache
+C:\Users\usr\source\repos\MaxDepthOfBinaryTree\MaxDepthOfBinaryTree\obj\Debug\MaxDepthOfBinaryTree.exe
+C:\Users\usr\source\repos\MaxDepthOfBinaryTree\MaxDepthOfBinaryTree\obj\Debug\MaxDepthOfBinaryTree.pdb
